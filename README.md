@@ -1,10 +1,2 @@
 - 👋 Hi, I’m @campper
-- 👀 I’m interested in NLP and Power Knowledge Computing
-- 🌱 I’m currently learning Algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-campper/campper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 创建电力认知计算引擎，将电力知识转化为无限价值
